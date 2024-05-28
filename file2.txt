@@ -1,0 +1,1 @@
+git Clone:-Creates copy of local repository on a local machine or remote server.
