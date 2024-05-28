@@ -1,1 +1,2 @@
 git Clone:-Creates copy of local repository on a local machine or remote server.
+git pull: updates local repository with any updates on the remote repository
